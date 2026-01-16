@@ -4,7 +4,7 @@
 The Pantech solution Company wants to create an annual sales report for establishing the performance review in each city and states. So that, the owner of the Pantech Company can understand their cutomer and grow more sales.
 
 ## Dataset Used
-[Case Study - Sales Trends Dashboard on MS Excel, Pantech Solutions.xlsx](https://github.com/user-attachments/files/24664170/Case.Study.-.Sales.Trends.Dashboard.on.MS.Excel.Pantech.Solutions.xlsx)
+[Sales Trends Dashboard on MS Excel, Pantech Solutions.xlsx](https://github.com/user-attachments/files/24664170/Case.Study.-.Sales.Trends.Dashboard.on.MS.Excel.Pantech.Solutions.xlsx)
 
 ## Questions (KPIs)
 - Compare the total sales of category?
