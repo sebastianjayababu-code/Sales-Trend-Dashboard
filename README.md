@@ -1,5 +1,4 @@
 # Sales-Trend-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
 ## Project Objective
 The LegalEase Company wants to create an annual sales report for establishing the outlet performance. So that, the owner of the LegalEase Company can understand their outlets performance and grow more sales.
