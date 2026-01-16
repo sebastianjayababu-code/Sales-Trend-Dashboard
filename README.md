@@ -37,4 +37,4 @@ The Pantech solution Company wants to create an annual sales report for establis
 
 
 ## Final Conclusion:
-To improve the sales of LegalEase Company, a strategic marketing plan focused on Snacks, fruits & vegetables should be implemented. This item categories represents a key consumer segment, as they often make the most amount of sales for the department and which also mean brings the highest footfall for the Superstore. The approach should include creating a superstore model which revolves arouund fresh vegetables and fruits with popular snack items.
+To improve the sales of Pantech solution Company, a strategic marketing plan focused on Snacks, fruits & vegetables should be implemented. This item categories represents a key consumer segment, as they often make the most amount of sales for the department and which also mean brings the highest footfall for the Superstore. The approach should include creating a superstore model which revolves arouund fresh vegetables and fruits with popular snack items.
