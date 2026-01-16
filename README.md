@@ -27,7 +27,13 @@ The Pantech solution Company wants to create an annual sales report for establis
 <img width="583" height="491" alt="Sales Trend Dashboard" src="https://github.com/user-attachments/assets/7924168b-d662-4d16-85ac-5c6eda0d4d05" />
 
 ## Project Insight (get from KPI Q's)
-- Mobile sector category has the highest total sales of
+- The overall performance metrics indicate a win rate that fluctuates between a high of 8.6% and a low of 7.9%, while monthly revenue peaked at 10,000 in February and March before reaching its minimum of approximately 7,000 in October.
+- The Mobile category represents the primary driver of sales, contributing the highest volume to overall revenue.
+- The peak conversion performance was achieved during the months of January and May, which recorded the highest rates of the year
+- The data reveals a fluctuating relationship where the conversion rate peaked at 8.64% during January and March, before reaching its lowest point of 7.94% in August.
+- The city of Lucknow is identified as the single largest contributor to sales volume.
+- Monthly revenue analysis shows a direct correlation with traffic patterns, as fluctuations in revenue align with the conversion rates and impression volumes identified in the respective charts.
+- The monthly conversion rates exhibit a variable trend, highlighted by a maximum performance of 8.64% in both January and March, while declining to a yearly low of 7.94% during August.
 
 
 ## Final Conclusion:
