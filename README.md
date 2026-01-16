@@ -1,21 +1,22 @@
 # Sales-Trend-Dashboard
 
 ## Project Objective
-The LegalEase Company wants to create an annual sales report for establishing the outlet performance. So that, the owner of the LegalEase Company can understand their outlets performance and grow more sales.
+The Pantech solution Company wants to create an annual sales report for establishing the performance review in each city and states. So that, the owner of the Pantech Company can understand their cutomer and grow more sales.
 
 ## Dataset Used
 [Case Study - Sales Trends Dashboard on MS Excel, Pantech Solutions.xlsx](https://github.com/user-attachments/files/24664170/Case.Study.-.Sales.Trends.Dashboard.on.MS.Excel.Pantech.Solutions.xlsx)
 
 
 ## Questions (KPIs)
-- Compare the sales of items
-- Which type of supermartket is contributing maximum to the sales?
-- Bring out Highest selling items?
-- Which outlet got the highest sales and orders till date?
-- What is the total MRP of per item category?
-- Total net weight of per item category?
+- Compare the total sales of category?
+- Which type of category is contributing maximum to the sales?
+- Point out the Highest conversion month?
+- What is the relationship of impression to conversion rate?
+- Which State is the biggest contributors to the sales?
+- What is the Revenue comparision to the month and is there a relationship with impression and conversion rate?
+- What is the Conversion Rate by months? 
+- What is the Win Rate and Average revenue per month?
 - Dashboard Interaction 
-
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -24,7 +25,8 @@ The LegalEase Company wants to create an annual sales report for establishing th
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic"
 
 ## Dashboard
-<img width="414" height="375" alt="Sales Trend Dashboard" src="https://github.com/user-attachments/assets/ecf90276-e846-4469-8311-1700b0a66c23" />
+<img width="583" height="491" alt="Sales Trend Dashboard" src="https://github.com/user-attachments/assets/7924168b-d662-4d16-85ac-5c6eda0d4d05" />
+
 
 
 ## Project Insight (get from KPI Q's)
