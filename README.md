@@ -37,4 +37,6 @@ The Pantech solution Company wants to create an annual sales report for establis
 
 
 ## Final Conclusion:
-To improve the sales of Pantech solution Company, a strategic marketing plan focused on Snacks, fruits & vegetables should be implemented. This item categories represents a key consumer segment, as they often make the most amount of sales for the department and which also mean brings the highest footfall for the Superstore. The approach should include creating a superstore model which revolves arouund fresh vegetables and fruits with popular snack items.
+The data reveals a significant performance gap in the second half of the year, specifically a dip in August (lowest conversion) and October (lowest revenue).
+To improve the sales of Pantech solution Company, a strategic marketing plan focused launching aggressive promotional campaigns or loyalty rewards in July and August to bridge the gap. 
+Since revenue tracks with impressions, increasing top-of-funnel ad spend in September is necessary to prevent the October revenue slump
